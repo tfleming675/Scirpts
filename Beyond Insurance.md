@@ -1,56 +1,56 @@
-Agent
+### **Agent**
 Hello, thank you for calling Beyond Insurance. Is this a new or existing claim?
 
-Customer 
+### Customer 
 I can barely hear you, can you speak up. I am having a hard time hearing you. 
 
-Agent 
+### **Agent** 
 Absolutely, is this any better?
 
-Customer
+### Customer
 Yes, that is better, my name is Don Smith. I am calling for an existing claimá
 
-Agent
+### **Agent**
 I see, what is your case number?
 
-Customer
+### Customer
 My case number is 123456
 
-Agent
+### **Agent**
 This is the short-term disability claim correct?
 
-Customer
+### Customer
 Yes, that is the one. 
 
-Agent
+### **Agent**
 Ok, I found your case. I see that you are currently taking a prescription on Valindaium.ÊHave you been taking it twice per day as prescribed by your doctor?
 
-Customer
+### Customer
 No, actually I stopped taking it a couple days ago because it was making me anxious. Now I am feeling really tired and depressed.
 
-Agent
+### **Agent**
 What? Are you crazy? You canÕt just stop taking the medication without talking to your doctor.
 
-Customer
+### Customer
 I know but I just didnÕt feel like myself. What do you think I should do?
 
-Agent
+### **Agent**
 You need to talk to a doctor.Ê I will transfer you now.
 
-Customer
+### Customer
 Wait! I am confused. 
 
-Agent
+### **Agent**
 I bet you are! You should know better than to stop taking your meds. You need to listen to me!
 
-Customer
+### Customer
 How is this related to my insurance claim? Maybe I should speak to a supervisor. 
 
-Agent 
+### **Agent** 
 I am sorry, there are no supervisors available due to the virus. 
 
-Customer
+### Customer
 {Get mad } 
-
+ 
 Can you please have someone call me back as soon as possible. 
 
