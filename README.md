@@ -1,4 +1,4 @@
-# ACI Demo Scirpts
+# ACI Demo Scripts
 
 ### ACI Scripts
 
