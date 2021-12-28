@@ -1,6 +1,6 @@
 ## Agent
 
-Thankyou for calling the Home Depot. How can I assist you today? Am I speaking to Mr. George Snyder?
+Thankyou for calling the Beyond Retail. How can I assist you today? Am I speaking to Mr. George Snyder?
 
 ## Customer
 
@@ -53,4 +53,4 @@ No… Just get the Washing Machine delivered.
 
 ## Agent
 
-OK. Thankyou for calling Home Depot.
+OK. Thankyou for calling Beyond Retail.
